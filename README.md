@@ -1,3 +1,5 @@
+google-site-verification: google3a3df0520529b9be.html
+
 # MIT-6.0001-course
 
 # INFO
